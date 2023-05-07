@@ -1,0 +1,1035 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01D0C326.E8C4F5A0"
+
+Este documento é uma Página da Web de Arquivo Único, também conhecido como Arquivo da Web. Se você estiver lendo esta mensagem, o seu navegador ou editor não oferecem suporte a Arquivos da Web. Baixe um navegador que ofereça suporte a Arquivos da Web, como o Windows® Internet Explorer®.
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"TabelaeGraficos-MHTML_arquivos/filelist.xml">
+<title>Tabela e Gráficos - MHTML</title>
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"TabelaeGraficos-MHTML_arquivos/sheet001.htm">
+<link id=3D"shLink" href=3D"TabelaeGraficos-MHTML_arquivos/chart001.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D2;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "Planilha";
+ c_rgszSh[1] =3D "Gráfico de Vendas";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Planilha</x:Name>
+    <x:WorksheetSource HRef=3D"TabelaeGraficos-MHTML_arquivos/sheet001.htm"=
+/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Gráfico de Vendas</x:Name>
+    <x:WorksheetSource HRef=3D"TabelaeGraficos-MHTML_arquivos/chart001.htm"=
+/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"TabelaeGraficos-MHTML_arquivos/stylesheet.css"/>
+  <x:WindowHeight>9735</x:WindowHeight>
+  <x:WindowWidth>21600</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>0</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"TabelaeGraficos-MHTML_arquivos/sheet001.htm" name=3D"frSheet=
+">
+ <frame src=3D"TabelaeGraficos-MHTML_arquivos/tabstrip.htm" name=3D"frTabs"=
+ marginwidth=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>Esta página usa quadros, mas o seu navegador não dá suporte para eles=
+.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML_arquivos/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="windows-1252"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	color:white;
+	font-size:18.0pt;
+	font-family:"Adobe Fangsong Std R", serif;
+	mso-font-charset:128;
+	text-align:left;
+	vertical-align:middle;
+	background:#404040;
+	mso-pattern:black none;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl66
+	{mso-style-parent:style0;
+	background:#404040;
+	mso-pattern:black none;}
+.xl67
+	{mso-style-parent:style0;
+	color:#D9D9D9;
+	font-size:28.0pt;
+	font-family:"Adobe Fangsong Std R", serif;
+	mso-font-charset:128;
+	vertical-align:middle;
+	background:#404040;
+	mso-pattern:black none;}
+.xl68
+	{mso-style-parent:style0;
+	color:white;
+	font-size:14.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#70AD47;
+	mso-pattern:black none;}
+.xl69
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl70
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML_arquivos/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../TabelaeGraficos-MHTML.htm">
+<![if IE]>
+<base href=3D"file:///C:\8EF559EC\TabelaeGraficos-MHTML_arquivos\tabstrip.h=
+tm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Planilha</fo=
+nt></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"chart001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Gráfico de V=
+endas</font></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML_arquivos/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../TabelaeGraficos-MHTML.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<title>Tabela e Gráficos - MHTML</title>
+<![if IE]>
+<base href=3D"file:///C:\8EF559EC\TabelaeGraficos-MHTML_arquivos\sheet001.h=
+tm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:.79in .51in .79in .51in;
+	mso-header-margin:.31in;
+	mso-footer-margin:.31in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../TabelaeGraficos-MHTML.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1876 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:1406pt'>
+ <col width=3D26 style=3D'mso-width-source:userset;mso-width-alt:950;width:=
+20pt'>
+ <col width=3D119 style=3D'mso-width-source:userset;mso-width-alt:4352;widt=
+h:89pt'>
+ <col width=3D135 style=3D'mso-width-source:userset;mso-width-alt:4937;widt=
+h:101pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <col width=3D169 style=3D'mso-width-source:userset;mso-width-alt:6180;widt=
+h:127pt'>
+ <col width=3D135 style=3D'mso-width-source:userset;mso-width-alt:4937;widt=
+h:101pt'>
+ <col width=3D127 style=3D'mso-width-source:userset;mso-width-alt:4644;widt=
+h:95pt'>
+ <col width=3D103 style=3D'mso-width-source:userset;mso-width-alt:3766;widt=
+h:77pt'>
+ <col width=3D127 style=3D'mso-width-source:userset;mso-width-alt:4644;widt=
+h:95pt'>
+ <col width=3D103 style=3D'mso-width-source:userset;mso-width-alt:3766;widt=
+h:77pt'>
+ <col width=3D64 span=3D12 style=3D'width:48pt'>
+ <tr class=3Dxl66 height=3D48 style=3D'height:36.0pt'>
+  <td height=3D48 class=3Dxl65 colspan=3D5 width=3D513 style=3D'height:36.0=
+pt;mso-ignore:
+  colspan;width:385pt'>Salvando Planilha em HTML e MHTML</td>
+  <td class=3Dxl67 width=3D135 style=3D'width:101pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D127 style=3D'width:95pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D103 style=3D'width:77pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D127 style=3D'width:95pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D103 style=3D'width:77pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt;mso-xlrowspan:2'>
+  <td height=3D40 colspan=3D22 style=3D'height:30.0pt;mso-ignore:colspan'><=
+/td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 colspan=3D5 style=3D'height:18.75pt;mso-ignore:colspan'><=
+/td>
+  <td class=3Dxl68>Meses</td>
+  <td class=3Dxl68 style=3D'border-left:none'>Vendas</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Janeiro</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>1.061</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Fevereiro</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>402</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Março</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>234</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Abril</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>588</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Maio</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>956</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Junho</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>1.173</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Julho</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>993</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Agosto</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>573</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Setembro</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>1.223</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Outubro</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>1.382</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Novembro</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>1.458</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D5 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl69 style=3D'border-top:none'>Dezembro</td>
+  <td class=3Dxl70 style=3D'border-top:none;border-left:none'>517</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D26 style=3D'width:20pt'></td>
+  <td width=3D119 style=3D'width:89pt'></td>
+  <td width=3D135 style=3D'width:101pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D169 style=3D'width:127pt'></td>
+  <td width=3D135 style=3D'width:101pt'></td>
+  <td width=3D127 style=3D'width:95pt'></td>
+  <td width=3D103 style=3D'width:77pt'></td>
+  <td width=3D127 style=3D'width:95pt'></td>
+  <td width=3D103 style=3D'width:77pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML_arquivos/chart001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../TabelaeGraficos-MHTML.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<link rel=3DEdit-Time-Data href=3Deditdata.mso>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><![if IE]>
+<base href=3D"file:///C:\8EF559EC\TabelaeGraficos-MHTML_arquivos\chart001.h=
+tm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--@page
+	{margin:.79in .51in .79in .51in;
+	mso-header-margin:.31in;
+	mso-footer-margin:.31in;
+	mso-page-orientation:landscape;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../TabelaeGraficos-MHTML.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body>
+<img src=3Dimage001.png alt=3D"Gráfico de Vendas">
+</body>
+
+</html>
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML_arquivos/image001.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+iVBORw0KGgoAAAANSUhEUgAAA/8AAAKBCAMAAAA2g+thAAAAAXNSR0ICQMB9xQAAAV9QTFRFAAAA
+QEBAXUFBQUFdWEFBQUFYWVlZV1dXU1NTT09PSUlJRUVFQUF4QUFuWEFuU1N5QV2RXV2RQViDWFiD
+QW6XWG6XU2aLQXipWIOrXZHBeEFBbkFBZlNTbkFYbkFubliDbm6XbpeXbpe/boOrbperZouueZ2/
+eJHBeKnZkV1BkV1dg1hBg1hul25BnXlTl25Yl25ug26Dl4NYl5eXg4OXl4ODg5e/g4OrkamRl7+X
+l6uDg6uXna6Lg6u/l7+rl7+/g6urkcHZqXhBqXhdq4NYv5duq4Nurotmv5eXq5eDq4ODv5eDv6uD
+v7+Xq6uDq7+Xrq6Lq7+/v7+/v7+rq7+rq6urq6u/v6urqdnZwZFdwZGR2al42cGRwcGR2dmp2dnZ
+2dnBwdnZ2cHB/wAA/1UA/2YA/nAA/m8A/nEA/28A/m4A/3QA/m0A/3AA/msA/38A/3cA/nIA/24A
+/3IA7X0xK/G8xQAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3
+YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAoJ0lEQVR42u2dj5/bSHmHGVhztFdfqXF7BsMdda/t
+0cXl7jigyXU3gdotpfujUQKFQgk0zW42lxxcsv//p/NDtuVd2daMxtLM6Hk2q/XqE7+reaWvvhqN
+3vEXvgAAAAAAAAAAAABp8xgAOkZB/wIAOgX6B0D/6B8A/QMA+gcA9A8A6B8A0D8AoH8AQP8AgP4B
+AP0DAPoHAPQPAOgfIuDrj3/zRbKA/iE93s+1vU3j6B/9Q5p8/fHvviN/fOnHj38l0D+g/27x1d9r
+4X/19/o0gP4B/XcJafxK3Fri8lzwWJ0NvvTj3/3Djx8b0b8vf/69evm2mhVKrfqzXz5+vOVkAegf
+4uFtLeb3pe7fNjO//UqdEzS/1vI3uleq16vMCy4I0D+kgNTzr+Tid9+Rqv+J6gj89hvylTwnvG9U
+/2t1WfCbL37pn76ozhW//Yb6D+Kr/4P+0T+kgNL52/JbX/0/Vtf25magEru5ONCdA+P7Sv+P1XkC
+0D+kgNL5+8bmS/QvzV7rP7/+l7++bToJgP4hAaSy/0Vd+q+GAMr8/20jfXU6EKZ/AOgfEuD9x/+r
++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
+AABJRU5ErkJggk==
+
+------=_NextPart_01D0C326.E8C4F5A0
+Content-Location: file:///C:/8EF559EC/TabelaeGraficos-MHTML_arquivos/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../TabelaeGraficos-MHTML.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"chart001.htm"/>
+ <o:File HRef=3D"image001.png"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D0C326.E8C4F5A0--
